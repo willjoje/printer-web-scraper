@@ -1,0 +1,227 @@
+[
+    {
+      "nome": "Adilson",
+      "serial": "BRBSP4V03B",
+      "ip": "https://10.81.7.8/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "ASSPA",
+      "serial": "BRBSP4V03F",
+      "ip": "https://10.81.7.28/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "BIBLIOTECA",
+      "serial": "BRBSP4V037",
+      "ip": "https://10.81.7.2/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Campello", 
+      "serial": "BRBSP4Q13M",
+      "ip": "https://10.81.7.24/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    }, 
+    {
+      "nome": "Cardoso",
+      "serial": "BRBSP4V020",
+      "ip": "https://10.81.7.25/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "CGP",
+      "serial": "BRBSP4V031",
+      "ip": "https://10.81.7.6/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Chaves",
+      "serial": "BRBSP4V032",
+      "ip": "https://10.81.7.31/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "DPJ", 
+      "serial": "BRBSP4V040",
+      "ip": "https://10.81.7.4/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    }, 
+    {
+      "nome": "CORREGEDORIA",
+      "serial": "BRBSP4V035",
+      "ip": "https://10.81.7.18/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "CTIC",
+      "serial": "BRBSP4V026",
+      "ip": "https://10.81.7.3/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "DIAAS",
+      "serial": "BRBSP4Q15D",
+      "ip": "https://10.81.7.35/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Domingos",
+      "serial": "BRBSP4V03G",
+      "ip": "https://10.81.7.19/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Duciran",
+      "serial": "BRBSP4V03L",
+      "ip": "https://10.81.7.16/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "ELEITORAL",
+      "serial": "BRBSP4V029",
+      "ip": "https://10.81.7.34/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Fabio",
+      "serial": "BRBSP4V02N",
+      "ip": "https://10.81.7.14/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Fernando",
+      "serial": "BRBSP4V038",
+      "ip": "https://10.81.7.9/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Gino",
+      "serial": "BRBSP4V03D",
+      "ip": "https://10.81.7.20/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Isabel",
+      "serial": "BRBSP4V044",
+      "ip": "https://10.81.7.13/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Joaquim",
+      "serial": "BRBSP4V021",
+      "ip": "https://10.81.7.15/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Machado",
+      "serial": "BRBSP4Q12N",
+      "ip": "https://10.81.7.26/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Marcelo",
+      "serial": "BRBSP4V03V",
+      "ip": "https://10.81.7.10/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Marcos",
+      "serial": "BRBSP4Q142",
+      "ip": "https://10.81.7.21/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Marylucy",
+      "serial": "BRBSP4V02K",
+      "ip": "https://10.81.7.32/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Miecio",
+      "serial": "BRBSP4V03X",
+      "ip": "https://10.81.7.30/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "NAI",
+      "serial": "BRBSP4V041",
+      "ip": "https://10.81.7.5/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "NAOP",
+      "serial": "BRBSP4V02T",
+      "ip": "https://10.81.7.23/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "PRCHEFE",
+      "serial": "BRBSP4V01Z",
+      "ip": "https://10.81.7.33/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Rafael",
+      "serial": "BRBSP4V028",
+      "ip": "https://10.81.7.29/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Roberto",
+      "serial": "BRBSP4V030",
+      "ip": "https://10.81.7.27/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "SAC",
+      "serial": "BRBSP4Q13D",
+      "ip": "https://10.81.7.1/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "SECREG",
+      "serial": "BRBSP4Q123",
+      "ip": "https://10.81.7.7/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Socorro",
+      "serial": "BRBSP4Q0XH",
+      "ip": "https://10.81.7.11/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Sonia",
+      "serial": "BRBSP4V03S",
+      "ip": "https://10.81.7.17/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Uairandyr",
+      "serial": "BRBSP4V03R",
+      "ip": "https://10.81.7.22/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "Wellington",
+      "serial": "BRBSP4V02P",
+      "ip": "https://10.81.7.12/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": false
+    },
+    {
+      "nome": "ASCOM",
+      "serial": "CNC1P5W014",
+      "ip": "https://10.81.7.37/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": true
+    },
+    {
+      "nome": "REPROGRAFIA",
+      "serial": "CNC1P71007",
+      "ip": "https://10.81.7.39/hp/device/InternalPages/Index?id=UsagePage",
+      "colorida": true
+    }
+  ]
+
+  
+  
